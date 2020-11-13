@@ -1,1 +1,21 @@
+This is a copy off of dream and Georges spiderman plugin that I coded
 
+video link: https://www.youtube.com/watch?v=N09x0dQq2P0&t=695s
+Dreams patreon:  https://www.patreon.com/DreamWasTaken
+
+commands: spidey
+for 1.15.2
+
+once you type that in it works, just have to right click with any item in hand except for throwables, food, and projectile based weapons. Oh and a sheild,
+also if you have one of the listed items in your offhand.
+
+some other things to know about this is that if you fall before 2.5 second after you hit a block with the web you will take reduced damage
+
+between 3 - 10, half a heart
+between 10 - 20, one heart
+between 20 - 30, one and a half hearts
+and anything above 30 blocks is two hearts.
+
+if you hit a mob it will be pulled back to you, one of the main things George didnt code, at least i think.
+
+that should be it, enjoy!
