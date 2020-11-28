@@ -1,0 +1,14 @@
+name: mobhunt
+version: 1.0
+author: MRANDOM
+main: me.MRANDOM.mobhunt.Main
+api-version: 1.15
+
+commands:
+  mhcreate: 
+  
+  mhstart: 
+  
+  mhstop: 
+  
+  mhtime: 
